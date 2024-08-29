@@ -5,4 +5,4 @@ Awesome collection of learning materials to master everything you should know to
 Here you can find:
 
 - __:chart_with_upwards_trend:__ [Systemize](./cheatsheet/readme.md) : cheatsheets
-- 📙 [Alex Hormozi](./hormozi/readme.md) : summary on Alex Hormozi Books
+- 📙 [Alex Hormozi](./hormozi.md) : summary on Alex Hormozi Books
