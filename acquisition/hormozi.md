@@ -35,6 +35,8 @@ Value = ( Benefit * Percieved Likehood ) / ( Delay * Sacrifices )
 
 - Starving Crowd ( demand ) > Offer Strength > Persuation Skill
 
+![Starving Crowd](cheatsheet/starving_crowd.png)
+
 ## Convergent Thinking vs Divergent Thinking
 
 | **Aspect**          | **Convergent Thinking**                      | **Divergent Thinking**                       |
