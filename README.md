@@ -1,6 +1,6 @@
 # 🧭 Learn Doing Business
 
-Awesome collection of learning materials to master everything you should know to do business efficienly.
+Awesome collection of learning materials to master everything you should know to do business efficienlty.
 
 Here you can find:
 
